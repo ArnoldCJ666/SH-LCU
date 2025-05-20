@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Arnold Mwesigye's Logo" width="100" />
-</div>
 
 # CompanyWebTemplate
 This is a template for a modern and responsive website. You can use this template as a starting point for your website and customize it to fit your needs.
